@@ -1,0 +1,35 @@
+.layout{
+    border: 2px solid black;
+    border-radius: 10%;
+    width: 500px;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    padding: 20px;
+}
+.heading{
+    width: 400px;
+}
+.heading h2{
+    text-align: center;
+    font-style: italic;
+    font-size: 50px;
+    color: black;
+    margin: 10px;
+}
+.que{
+    padding: 10px;
+    width: 400px;
+}
+.que>p{
+    text-align: center;
+    font-size: 20px;
+    color: black;
+}
+.que>p>span{
+    color: rgb(46, 46, 207);
+    cursor: pointer;
+}
