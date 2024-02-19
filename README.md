@@ -37,4 +37,4 @@ initially stores the true value which is used to render the login page. on the c
 <h3>App component</h3>
 <p>At last the layout component imported to the app component and rendered.</p>
 
-<h3>visist site using netlify <a href="https://nikhil-insta-login.netlify.app">visit site</a></h3>
+<h3>visist site using netlify <a href="https://nikhil-insta-login.netlify.app">Instagram Login</a></h3>
